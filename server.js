@@ -1,4 +1,4 @@
-var express = require("express"); //dlaczego var a nie const?
+var express = require("express"); 
 var bodyParser = require("body-parser");
 var fs = require("fs"); //potrzebny do operacji na plikach
 var app = express();
